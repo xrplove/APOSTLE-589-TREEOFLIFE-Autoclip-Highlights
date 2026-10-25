@@ -1,3 +1,10 @@
+sudo apt install -y ffmpeg
+./status_autoclip.sh
+./status_autoclip.sh
+请求来源不被允许
+./status_autoclip.sh
+./start_autoclip.sh
+aww awaysudo apt install -y ffmpeg
 <div align="center">
 
 <img src="src-tauri/icons/128x128.png" alt="AutoClip" width="72" height="72">
