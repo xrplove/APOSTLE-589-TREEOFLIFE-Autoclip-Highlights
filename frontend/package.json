@@ -24,7 +24,7 @@
     "@tauri-apps/plugin-updater": "^2.11.0",
     "@types/react-beautiful-dnd": "^13.1.8",
     "antd": "^5.12.8",
-    "axios": "^1.6.2",
+    "axios": "^1.20.0",
     "dayjs": "^1.11.10",
     "i18next": "26.4.2",
     "posthog-js": "^1.379.0",
